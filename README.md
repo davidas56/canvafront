@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+First to run this proyect we need the libraries and js-cookies
+
+### `npm install`
+### `npm i js-cookie`
+
 ## Available Scripts
 
 In the project directory, you can run:
